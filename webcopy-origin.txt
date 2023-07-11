@@ -1,0 +1,836 @@
+Uri: https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\validthemes.live\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\validthemes.live\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans
+File Name: C:\Downloaded Web Sites\validthemes.live\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800
+File Name: C:\Downloaded Web Sites\validthemes.live\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E-_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FO_F.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v14/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\manrope\v14\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFO_F.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDDshRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmRTM.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTM.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://validthemes.live/themeforest/edukat/404.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\404.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/about-us.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\about-us.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/advisor-single.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\advisor-single.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/advisors-2.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\advisors-2.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/advisors.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\advisors.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://validthemes.live/themeforest/edukat/assets/css/bootsnav.css
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\css\bootsnav.css
+Content Type: text/css
+
+Uri: https://validthemes.live/themeforest/edukat/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://validthemes.live/themeforest/edukat/assets/css/elegant-icons.css
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\css\elegant-icons.css
+Content Type: text/css
+
+Uri: https://validthemes.live/themeforest/edukat/assets/css/flaticon-set.css
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\css\flaticon-set.css
+Content Type: text/css
+
+Uri: https://validthemes.live/themeforest/edukat/assets/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://validthemes.live/themeforest/edukat/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://validthemes.live/themeforest/edukat/assets/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://validthemes.live/themeforest/edukat/assets/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\css\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://validthemes.live/themeforest/edukat/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://validthemes.live/themeforest/edukat/assets/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/ElegantIcons.eot
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/ElegantIcons.eot?
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\ElegantIcons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/ElegantIcons.svg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\ElegantIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/ElegantIcons.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\ElegantIcons.ttf
+Content Type: font/ttf
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/ElegantIcons.woff
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\ElegantIcons.woff
+Content Type: font/woff
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/Flaticon.eot
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/Flaticon.svg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/Flaticon.woff
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\Flaticon.woff
+Content Type: font/woff
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/themify.eot?-fvbane
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/themify.svg?-fvbane
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/themify.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://validthemes.live/themeforest/edukat/assets/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/about/1.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\about\1.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/about/2.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\about\2.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/about/3.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\about\3.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/about/7.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\about\7.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/about/8.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\about\8.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/advisor/1.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\advisor\1.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/advisor/2.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\advisor\2.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/advisor/3.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\advisor\3.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/advisor/4.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\advisor\4.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/advisor/5.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\advisor\5.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/advisor/6.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\advisor\6.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/advisor/7.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\advisor\7.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/advisor/8.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\advisor\8.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/advisor/9.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\advisor\9.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/10.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\10.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/12.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\12.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/13.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\13.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/14.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\14.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/15.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\15.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/17.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\17.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/20.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\20.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/24.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\24.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/25.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\25.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/26.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\26.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/27.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\27.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/6.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\6.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/banner/8.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\banner\8.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/blog/1.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\blog\1.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/blog/11.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\blog\11.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/blog/2.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\blog\2.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/blog/22.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\blog\22.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/blog/3.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\blog\3.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/blog/33.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\blog\33.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/blog/4.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\blog\4.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/blog/5.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\blog\5.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/blog/6.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\blog\6.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/category/1.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\category\1.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/category/2.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\category\2.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/category/3.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\category\3.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/category/4.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\category\4.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/category/5.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\category\5.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/category/6.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\category\6.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/courses/1.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\courses\1.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/courses/2.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\courses\2.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/courses/3.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\courses\3.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/courses/4.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\courses\4.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/courses/5.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\courses\5.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/courses/6.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\courses\6.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/demo/edukat-presentation.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\demo\edukat-presentation.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/demo/index-1.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\demo\index-1.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/demo/index-2.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\demo\index-2.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/demo/index-3.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\demo\index-3.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/demo/index-4.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\demo\index-4.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/dotted-bg.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\dotted-bg.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/envato.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\envato.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/event/1.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\event\1.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/event/11.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\event\11.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/event/2.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\event\2.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/event/22.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\event\22.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/event/3.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\event\3.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/event/33.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\event\33.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/event/44.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\event\44.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/gallery/1.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\gallery\1.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/gallery/2.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\gallery\2.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/gallery/3.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\gallery\3.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/gallery/4.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\gallery\4.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/gallery/5.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\gallery\5.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/gallery/6.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\gallery\6.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/illustration/1.svg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\illustration\1.svg
+Content Type: image/svg+xml
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/illustration/5.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\illustration\5.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/illustration/6.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\illustration\6.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/logo-light.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\logo-light.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/map.svg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\map.svg
+Content Type: image/svg+xml
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/preloader.gif
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\preloader.gif
+Content Type: image/gif
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/shape/1.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\shape\1.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/shape/11.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\shape\11.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/shape/12.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\shape\12.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/shape/13.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\shape\13.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/shape/15.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\shape\15.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/shape/2.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\shape\2.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/shape/4.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\shape\4.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/shape/5.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\shape\5.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/shape/7.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\shape\7.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/shape/9.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\shape\9.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/shape/brush.png
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\shape\brush.png
+Content Type: image/png
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/team/1.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\team\1.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/team/2.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\team\2.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/team/3.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\team\3.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/thumb/1.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\thumb\1.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/thumb/2.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\thumb\2.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/thumb/3.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\thumb\3.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/thumb/4.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\thumb\4.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/thumb/5.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\thumb\5.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/thumb/6.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\thumb\6.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/img/thumb/7.jpg
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\img\thumb\7.jpg
+Content Type: image/jpeg
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/bootsnav.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\bootsnav.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/count-to.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\count-to.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/jquery-1.12.4.min.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\jquery-1.12.4.min.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/jquery.appear.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/jquery.easing.min.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/jquery.nice-select.min.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\jquery.nice-select.min.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/loopcounter.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\loopcounter.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/main.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/modernizr.custom.13711.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\modernizr.custom.13711.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/progress-bar.min.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\progress-bar.min.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\wow.min.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/assets/js/YTPlayer.min.js
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\assets\js\YTPlayer.min.js
+Content Type: application/javascript
+
+Uri: https://validthemes.live/themeforest/edukat/blog-2-colum.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\blog-2-colum.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/blog-3-colum.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\blog-3-colum.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/blog-single-with-sidebar.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\blog-single-with-sidebar.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/blog-single.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\blog-single.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/blog-standard.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\blog-standard.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/blog-with-sidebar.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\blog-with-sidebar.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/contact.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\contact.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/course-details.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\course-details.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/courses-2.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\courses-2.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/courses-3.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\courses-3.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/courses-4.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\courses-4.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/courses-5.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\courses-5.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/courses.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\courses.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/events-2.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\events-2.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/events.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\events.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/faq.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\faq.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/gallery.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\gallery.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/index-1.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\index-1.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/index-2.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\index-2.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/index-3.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\index-3.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/index-4.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\index-4.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/index.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\index.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/login.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\login.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/register.html
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\register.html
+Content Type: text/html
+
+Uri: https://validthemes.live/themeforest/edukat/style.css
+File Name: C:\Downloaded Web Sites\validthemes.live\themeforest\edukat\style.css
+Content Type: text/css
+
