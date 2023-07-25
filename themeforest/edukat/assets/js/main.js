@@ -441,3 +441,13 @@
 
     }); // end document ready function
 })(jQuery); // End jQuery
+
+
+// vc - navigation links indicator
+const activePage = window.location;
+const navLinks = document.querySelectorAll("nav a");
+navLinks.forEach(link => {
+    if (link.href.includes(`${activePage}`)) {
+        link.classList.add("active");
+    }
+});
